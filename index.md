@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Johannes' blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. This is for initiating a discussion on energy sufficiency modelling.
